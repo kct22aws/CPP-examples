@@ -6,7 +6,7 @@ This example runs on Intel i9 CPU in a Mac Book Pro 16.
 
 ### Instruction
 
-In `source-code` directory, run
+In `source-code` directory, there is [add-vector.cpp](./source-code/vector-add.cpp). Run
 
 `g++ -o vector-add vector-add.cpp -Wall -std=c++17`
 
