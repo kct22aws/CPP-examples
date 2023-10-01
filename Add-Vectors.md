@@ -27,3 +27,7 @@ Adding two integer vector arrays of size: 4096
 Elapse time in 38 microseconds 
 Elapse time in 0 milliseconds 
 ```
+
+## Notes
+
+This program executes addition element by element.
