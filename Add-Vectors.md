@@ -30,4 +30,4 @@ Elapse time in 0 milliseconds
 
 ## Notes
 
-This program executes addition element by element.
+Addition is done element by element.
