@@ -3,6 +3,7 @@
 #include <future>
 #include <numeric>      // std::accumulate
 #include <thread>
+#include <vector>
 
 using namespace std;
 
@@ -37,8 +38,6 @@ int main() {
     std::cout << "Elapse time in " << duration << " microseconds " << std::endl;
     
     auto duration_ms = std::chrono::duration_cast<std::chrono::milliseconds>( t2 - t1 ).count();
-
- 
 
     std::cout << "Elapse time in " << duration_ms << " milliseconds " << std::endl;
 
